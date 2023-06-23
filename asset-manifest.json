@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Figma-WebPage-Design/static/css/main.131ae00f.css",
+    "main.js": "/Figma-WebPage-Design/static/js/main.bb866fc5.js",
+    "static/js/787.a0a63c57.chunk.js": "/Figma-WebPage-Design/static/js/787.a0a63c57.chunk.js",
+    "static/media/Back Ground.png": "/Figma-WebPage-Design/static/media/Back Ground.e8c9cb4c0636ae856448.png",
+    "index.html": "/Figma-WebPage-Design/index.html",
+    "main.131ae00f.css.map": "/Figma-WebPage-Design/static/css/main.131ae00f.css.map",
+    "main.bb866fc5.js.map": "/Figma-WebPage-Design/static/js/main.bb866fc5.js.map",
+    "787.a0a63c57.chunk.js.map": "/Figma-WebPage-Design/static/js/787.a0a63c57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.131ae00f.css",
+    "static/js/main.bb866fc5.js"
+  ]
+}
