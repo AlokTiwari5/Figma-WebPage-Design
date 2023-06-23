@@ -1,3 +1,5 @@
+![image](https://github.com/AlokTiwari5/Figma-WebPage-Design/assets/123202612/9b6d4725-d3ba-4c1c-b7d5-42ceb68fb9a8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
