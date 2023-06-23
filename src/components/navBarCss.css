@@ -1,0 +1,14 @@
+.NavBar {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    padding: 10px 40px;
+    /* width: 1920px; */
+    min-height: 6vh;
+    background: #ffffff;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
